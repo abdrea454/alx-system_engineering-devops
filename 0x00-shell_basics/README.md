@@ -1,1 +1,1 @@
-alx-system_engineering
+Display current directory contents in a long format
