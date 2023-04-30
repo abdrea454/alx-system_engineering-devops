@@ -5,6 +5,6 @@ count=0
 while [ "$count" -le 10 ]
 do
 	echo "Best School"
-	count=$(( count + 1 ))
+	count=$(( $count + 1 ))
 done
 count=$count
