@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Displays line containing the bash word
-ps auxf | grep bash

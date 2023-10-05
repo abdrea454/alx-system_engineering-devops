@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# kills the infinitry and beyond program using sigkill signal
-pkill -15 "bash ./7-highlander" -f
-
